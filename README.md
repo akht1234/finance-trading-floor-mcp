@@ -111,14 +111,8 @@ This separation is intentional — just like real desks: UI and execution are no
 
 ---
 
-## Screenshots / Demo (add when ready)
+## Screenshots / Demo 
 *(GIF or short clip will boost engagement massively)*
-
----
-
-## Good LinkedIn Post Idea (you can use)
-
-> I built my own autonomous trading floor — agents decide what to buy or sell, a scheduler triggers execution every N minutes, logs and analytics stream into a neon trading desk UI. This is how Agentic AI actually looks in production, not just as chat.
 
 ---
 
