@@ -112,7 +112,10 @@ This separation is intentional — just like real desks: UI and execution are no
 ---
 
 ## Screenshots / Demo 
-*(GIF or short clip will boost engagement massively)*
+<img width="1873" height="805" alt="Screenshot 2025-11-02 202747" src="https://github.com/user-attachments/assets/3ed8364b-0331-49bf-a197-7483d51d848f" />
+<img width="1855" height="810" alt="Screenshot 2025-11-02 202822" src="https://github.com/user-attachments/assets/33f72d96-8b8d-4154-882a-9f6cab8fe451" />
+
+
 
 ---
 
